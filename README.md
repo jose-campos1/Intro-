@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xjoseacr07
+- 👋 Hi, I’m @xjoseacr07 
 - 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... html/css/java/spring
+- 🌱 I’m currently learning ... html/css/java/spring/C/javaScript/AWS
 - 💞️ I’m looking to collaborate on ... companies
-- 📫 How to reach me ... @joseacr07
+- 📫 How to reach me ... @joseacr07 - jcampos.equinox@gmail.com
 
 <!---
 xjoseacr07/xjoseacr07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
