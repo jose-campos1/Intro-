@@ -10,15 +10,8 @@
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jose-campos1&label=Profile%20views&color=0e75b6&style=flat" alt="jose-campos1" /> </p>
 
-<p align="center" <a href="https://github-profile-trophy.vercel.app/?username=jose-campos1&theme=onedark&title=MultiLanguage,Commits,Repositories"> <img src="https://github-profile-trophy.vercel.app/?username=jose-campos1&theme=onedark&title=MultiLanguage,Commits,Repositories" /></a></p>
+<p align="center" <a href="https://github-profile-trophy.vercel.app/?username=jose-campos1&theme=onedark&title=MultiLanguage,Commits,Repositories"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=jose-campos1&theme=onedark&title=MultiLanguage,Commits,Repositories" /></a></p>
 
-
- <!--
-![trophy](https://github-profile-trophy.vercel.app/?username=jose-campos1&theme=onedark&title=MultiLanguage,Commits,Repositories)
--->
-
-
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jose-campos1" alt="jose-campos1" /></a> </p>-->
 
 <hr>
 
