@@ -15,10 +15,6 @@
 
 - 🤝 I’m looking for help with **AI**
 
-- 👨‍💻 All of my projects are available at [github.com/jose-campos1](github.com/jose-campos1)
-
-- 📝 I regularly write articles on [twitter :)](twitter :))
-
 - 💬 Ask me about **NodeJs**
 
 - 📫 How to reach me **jcampos.equinox@gmail.com**
@@ -28,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/notjoseacr07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notjoseacr07" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/joseacr07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joseacr07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jose-campos1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-campos1" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/guRPC3E5Zr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/guRPC3E5Zr" height="30" width="40" /></a>
 </p>
 
