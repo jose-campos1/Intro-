@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm José Campos</h1>
 
-<h3 align="center">A passionate frontend - backend developer from Venezuela..</h3>
+<h3 align="center">A passionate frontend - backend developer</h3>
 
 
 ![giphy](https://user-images.githubusercontent.com/106594685/225014000-dd2ebecc-962d-496a-83dc-d681b9495879.gif)
