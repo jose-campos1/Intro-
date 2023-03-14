@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jose Campos</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<h1 align="center">Hi 👋, I'm José Campos</h1>
+<h3 align="center">A passionate frontend - backend developer from Venezuela..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-campos1&label=Profile%20views&color=0e75b6&style=flat" alt="jose-campos1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jose-campos1" alt="jose-campos1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/notjoseacr07" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/notjoseacr07?logo=twitter&style=for-the-badge" alt="https://twitter.com/notjoseacr07" /></a> </p>
+<p align="left"> <a href="https://twitter.com/notjoseacr07" target="blank"><img src="https://img.shields.io/twitter/follow/notjoseacr07?logo=twitter&style=for-the-badge" alt="notjoseacr07" /></a> </p>
 
-- 🔭 I’m currently working on **Angular projects**
+- 🔭 I’m currently working on **Machine learning**
 
 - 🌱 I’m currently learning **DataBases**
 
 - 👯 I’m looking to collaborate on **Company projects**
 
-- 🤝 I’m looking for help with **IA**
+- 🤝 I’m looking for help with **AI**
 
 - 👨‍💻 All of my projects are available at [github.com/jose-campos1](github.com/jose-campos1)
 
@@ -27,8 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/notjoseacr07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/notjoseacr07" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/therebornchannel3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="therebornchannel3" height="30" width="40" /></a>
+<a href="https://twitter.com/notjoseacr07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notjoseacr07" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uchyt49awn7bnsw-okbfroyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchyt49awn7bnsw-okbfroyg" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/guRPC3E5Zr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/guRPC3E5Zr" height="30" width="40" /></a>
 </p>
 
@@ -40,4 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-campos1&show_icons=true&locale=en" alt="jose-campos1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-campos1&" alt="jose-campos1" /></p>
-
