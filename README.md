@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="480" height="340" frameBorder="0" class="giphy-embed" allowFullScreen>
+<iframe src="https://giphy.com/embed/fwbZnTftCXVocKzfxR">
 
 - 👋 Hi, I’m @jose-campos1
 - 👀 I’m interested in ... learning
