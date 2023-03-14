@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm José Campos</h1>
 <h3 align="center">A passionate frontend - backend developer from Venezuela..</h3>
 
+<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://dribbble.com/shots/3641004-Coding-Animation)](https://dribbble.com/shots/3641004-Coding-Animation)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-campos1&label=Profile%20views&color=0e75b6&style=flat" alt="jose-campos1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jose-campos1" alt="jose-campos1" /></a> </p>
