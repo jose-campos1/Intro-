@@ -5,7 +5,7 @@
 
 <h2 align="center">Hi... my name is José, i am </h2>
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=full+stack+web+developer" alt="Typing SVG" /></a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+web+and+app+developer+..." alt="Typing SVG" /></a> </p>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/106594685/230036925-b9d261d7-bcc0-4305-99e9-4d5f7a866ef8.PNG"> </p>
 
