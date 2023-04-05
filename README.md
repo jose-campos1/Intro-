@@ -23,15 +23,15 @@
 
 <p align="center"> <a href="https://twitter.com/notjoseacr07" target="blank"><img src="https://img.shields.io/twitter/follow/notjoseacr07?logo=twitter&style=for-the-badge" alt="notjoseacr07" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning**
+- 🔭 I’m currently working on **MachineLearning/GoogleCloud**
 
-- 🌱 I’m currently learning **DataBases**
+- 🌱 I’m currently learning **DataBases/MySql/Java**
 
-- 👯 I’m looking to collaborate on **Company projects**
+- 👯 I’m looking to collaborate on **Company-projects/Innovate**
 
-- 🤝 I’m looking for help with **AI**
+- 🤝 I’m looking for help with **Know new firends :) **
 
-- 💬 Ask me about **NodeJs**
+- 💬 Ask me about **Any thing 😃**
 
 - 📫 How to reach me **jcampos.equinox@gmail.com**
 
