@@ -3,6 +3,8 @@
 
 <!--<h1 align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&pause=1000&color=F71340&width=435&lines=Hello+%F0%9F%91%8B+.+++.+++.+++++%F0%9D%99%AC%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%98%F0%9D%99%A4%F0%9D%99%A2%F0%9D%99%9A++++%F0%9F%98%83" alt="Typing SVG" /></a></h1>-->
 
+<h2 align="center">Hi... my name is José </h2>
+
 <p align="center"> <img src="https://user-images.githubusercontent.com/106594685/230036925-b9d261d7-bcc0-4305-99e9-4d5f7a866ef8.PNG"> </p>
 
 
@@ -29,7 +31,7 @@
 
 - 👯 I’m looking to collaborate on **Company-projects/Innovate**
 
-- 🤝 I’m looking for help with **Know new firends :) **
+- 🤝 I’m looking for help with **Knew new firends :)**
 
 - 💬 Ask me about **Any thing 😃**
 
