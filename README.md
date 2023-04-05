@@ -1,8 +1,9 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/106594685/227818283-bcea93f8-32a4-42ca-a905-338616a49de4.gif"> </a></p>
+<!-- <p align="center"> <img src="https://user-images.githubusercontent.com/106594685/227818283-bcea93f8-32a4-42ca-a905-338616a49de4.gif"> </a></p> -->
 
 
 <!--<h1 align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&pause=1000&color=F71340&width=435&lines=Hello+%F0%9F%91%8B+.+++.+++.+++++%F0%9D%99%AC%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%98%F0%9D%99%A4%F0%9D%99%A2%F0%9D%99%9A++++%F0%9F%98%83" alt="Typing SVG" /></a></h1>-->
 
+<p align="center"> <img src="https://user-images.githubusercontent.com/106594685/230036925-b9d261d7-bcc0-4305-99e9-4d5f7a866ef8.PNG"> </p>
 
 
 <!--<h3 align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71340&width=435&lines=%EF%BD%83%EF%BD%8F%EF%BD%84%EF%BD%89%EF%BD%8E%EF%BD%87%EF%BC%8E%EF%BC%8E%EF%BC%8E%E3%80%80%E3%82%B1%E3%81%A0%E3%83%89" alt="Typing SVG" /></a></h3>-->
