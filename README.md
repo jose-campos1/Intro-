@@ -30,7 +30,7 @@
 
 <hr>
 
-<p align="center"> <a href="https://twitter.com/notjoseacr07" target="blank"><img src="https://img.shields.io/twitter/follow/notjoseacr07?logo=twitter&style=for-the-badge" alt="notjoseacr07" /></a> </p>
+<p align="center"> <a href="https://twitter.com/jjccrr" target="blank"><img src="https://img.shields.io/twitter/follow/notjoseacr07?logo=twitter&style=for-the-badge" alt="notjoseacr07" /></a> </p>
 
 - 🔭 I’m currently working on **AI - GoogleCloud**
 
