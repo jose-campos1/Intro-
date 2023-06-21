@@ -3,7 +3,7 @@
 
 <!--<h1 align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&pause=1000&color=F71340&width=435&lines=Hello+%F0%9F%91%8B+.+++.+++.+++++%F0%9D%99%AC%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%98%F0%9D%99%A4%F0%9D%99%A2%F0%9D%99%9A++++%F0%9F%98%83" alt="Typing SVG" /></a></h1>-->
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/106594685/230036925-b9d261d7-bcc0-4305-99e9-4d5f7a866ef8.PNG"> </p>
+<!--<p align="center"> <img src="https://user-images.githubusercontent.com/106594685/230036925-b9d261d7-bcc0-4305-99e9-4d5f7a866ef8.PNG"> </p>
 
 <!-- ![shenron-dragon-ball-z](https://user-images.githubusercontent.com/106594685/230047773-0f7c0ea4-4d57-44c6-afe9-ec01043894c2.gif) -->
 
@@ -34,13 +34,13 @@
 
 - 🔭 I’m currently working on **AI - GoogleCloud**
 
-- 🌱 I’m currently learning **DataBases/MySql/Java**
+- 🌱 I’m currently learning **DataBases - MySql - Java**
 
 - 👯 I’m looking to collaborate on **Company-projects**
 
-- 🤝 I’m looking for help with **Find job!**
+- 🤝 I’m looking for help with **Spring🤣**
 
-- 💬 Ask me about **AWS**
+- 💬 Ask me about **Hardware🤓**
 
 - 📫 How to reach me **jcampos.equinox@gmail.com**
 
