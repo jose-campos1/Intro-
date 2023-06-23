@@ -1,38 +1,22 @@
-<!-- <p align="center"> <img src="https://user-images.githubusercontent.com/106594685/227818283-bcea93f8-32a4-42ca-a905-338616a49de4.gif"> </a></p> -->
-
-
-<!--<h1 align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&pause=1000&color=F71340&width=435&lines=Hello+%F0%9F%91%8B+.+++.+++.+++++%F0%9D%99%AC%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%98%F0%9D%99%A4%F0%9D%99%A2%F0%9D%99%9A++++%F0%9F%98%83" alt="Typing SVG" /></a></h1>-->
-
-<!--<p align="center"> <img src="https://user-images.githubusercontent.com/106594685/230036925-b9d261d7-bcc0-4305-99e9-4d5f7a866ef8.PNG"> </p>
-
-<!-- ![shenron-dragon-ball-z](https://user-images.githubusercontent.com/106594685/230047773-0f7c0ea4-4d57-44c6-afe9-ec01043894c2.gif) -->
-
-
 <h2 align="center">Hi 👋... my name is José, i am a </h2>
-
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+web+and+app+developer+..." alt="Typing SVG" /></a> </p>
-
-
-
-
-<!--<h3 align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71340&width=435&lines=%EF%BD%83%EF%BD%8F%EF%BD%84%EF%BD%89%EF%BD%8E%EF%BD%87%EF%BC%8E%EF%BC%8E%EF%BC%8E%E3%80%80%E3%82%B1%E3%81%A0%E3%83%89" alt="Typing SVG" /></a></h3>-->
-
-<!--<p align="center"> <img src="https://user-images.githubusercontent.com/106594685/225014000-dd2ebecc-962d-496a-83dc-d681b9495879.gif"> </a></p>-->
-   
-<!--
-![giphy](https://user-images.githubusercontent.com/106594685/225014000-dd2ebecc-962d-496a-83dc-d681b9495879.gif)
--->
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jose-campos1&label=Profile%20views&color=0e75b6&style=flat" alt="jose-campos1" /> </p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/jjccrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notjoseacr07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jose-campos1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-campos1" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/invite/guRPC3E5Zr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/guRPC3E5Zr" height="30" width="40" /></a>
+<a href="https://github.com/jose-campos1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/jose-campos1/" height="30" width="40" /></a>
+</p>
 
-<p align="center" <a href="https://github-profile-trophy.vercel.app/?username=jose-campos1&theme=onedark&title=MultiLanguage,Commits,Repositories"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=jose-campos1&theme=onedark&title=MultiLanguage,Commits,Repositories" /></a></p>
 
 
 <hr>
 
-<p align="center"> <a href="https://twitter.com/jjccrr" target="blank"><img src="https://img.shields.io/twitter/follow/notjoseacr07?logo=twitter&style=for-the-badge" alt="notjoseacr07" /></a> </p>
 
-- 🔭 I’m currently working on **AI - GoogleCloud**
+
+- 🔭 I’m currently working on **AI**
 
 - 🌱 I’m currently learning **DataBases - MySql - Java**
 
@@ -46,15 +30,6 @@
 
 - ⚡ Fun fact **The time is limited so make the best of it!**
 
-<hr>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/jjccrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notjoseacr07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jose-campos1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-campos1" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/guRPC3E5Zr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/guRPC3E5Zr" height="30" width="40" /></a>
-<a href="https://github.com/jose-campos1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/jose-campos1/" height="30" width="40" /></a>
-</p>
 
 <hr>
 
